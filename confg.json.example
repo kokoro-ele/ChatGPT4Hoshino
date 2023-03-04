@@ -1,0 +1,7 @@
+{
+    "api_key": "sk-1145141919810",
+    "enable_filter":true,
+    "temperature":0.7,
+    "system_prompt":"",
+    "max_tokens": 2000
+}
